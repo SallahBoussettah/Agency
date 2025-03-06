@@ -71,7 +71,7 @@
   
   [plugins.inputs]
     output_path = "lighthouse-results"
-    fail_on_a11y = "error"
+    thresholds = { performance = 0.7, accessibility = 0.9, best-practices = 0.8, seo = 0.8 }
 
 # Post processing - Optimize assets automatically
 [build.processing]
