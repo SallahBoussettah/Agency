@@ -59,7 +59,6 @@ A stunning and interactive portfolio/agency template designed to showcase creati
 
 ```bash
 git clone https://github.com/SallahBoussettah/Agency.git
-cd Agency
 ```
 
 2. Install dependencies
